@@ -1,4 +1,4 @@
-# Free Public APIs
+## Free Public APIs
 
 ## Index
 
